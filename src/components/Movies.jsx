@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import SearchIcon from "../assets/search.svg";
 import MovieCard from "./constants/MovieCard";
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=945745f7";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=945745f7&s=spiderman";
 // const movie1 = {
 //   Title: "Spiderman and Grandma",
 //   Year: "2009",
